@@ -1,0 +1,2 @@
+# LazyBash
+bashrc file
